@@ -119,7 +119,7 @@ VPoEとして開発業務に従事しました。
 
 リフレッシュにゲームをやります。
 
-PS5でApex Legends、Valorant、FIFAをやっています。
+PS5でApex LegendsとFIFAをやっています。
 
 ### WorkOut
 
@@ -150,10 +150,8 @@ HIITのジムに通っています。
 - サザンオールスターズ
 - Mongol800
 - andymori
-- ザ・マスミサイル
 - ユニコーン
 - サンボマスター
-- ちあきなおみ
 - ノリアキ
 ```
 
